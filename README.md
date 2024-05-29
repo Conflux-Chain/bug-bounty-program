@@ -89,7 +89,7 @@ Responsible Submission: After discovering a vulnerability, please contact us and
 
 ### Bug PoC
 
-For Bug PoC details, please refer to Vulnerability PoC Guide and Rules
+For Bug PoC details, please refer to [Vulnerability PoC Guide and Rules](./bug-poc.md)
 
 ### Participation Methods
 
