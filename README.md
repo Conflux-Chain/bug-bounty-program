@@ -98,6 +98,12 @@ After discovering a vulnerability, please contact us and report the vulnerabilit
 
 For Bug PoC details, please refer to [Vulnerability PoC Guide and Rules](./bug-poc.md)
 
+### Restrictions on Security Researcher Eligibility
+
+Security researchers who fall under any of the following are ineligible for a reward
+
+- Current employees, vendors (auditors), partners and contractors are not eligible to participate in the bug bounty program
+
 ### Participation Methods
 
 - Create an issue in this GitHub Repo and describe the vulnerability details
