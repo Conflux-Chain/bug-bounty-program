@@ -23,6 +23,10 @@ To avoid any confusion, the following are considered outside the current policy 
 
 Nevertheless, we may still reward any errors that have a significant impact on the overall security of the system, so we still encourage you to report relevant errors through the Bug Bounty or other means.
 
+## Known Issue Assurance
+
+Conflux commits to providing Known Issue Assurance to bug submissions through their program. This means that Conflux will either disclose known issues publicly or at the very least privately via a self-reported bug submission in order to allow for a more objective and streamlined mediation process to prove that an issue is known. Otherwise, assuming the bug report itself is valid, it would result in the bug report being considered in-scope and due 100% of the reward with respect to the bug bounty program terms.
+
 ## Bounty Levels
 
 We categorize the bounties into five levels based on the severity and impact range of the vulnerabilities:
@@ -84,8 +88,11 @@ Examples:
 
 ## Participation Guidelines
 
-Compliance: Please ensure your research and submissions comply with legal regulations and ethical standards. It is prohibited to conduct any destructive testing or attacks.
-Responsible Submission: After discovering a vulnerability, please contact us and report the vulnerability information as soon as possible via the official email; include a vulnerability description, vulnerability PoC, and repair suggestions.
+- Compliance: Please ensure your research and submissions comply with legal regulations and ethical standards. It is prohibited to conduct any destructive testing or attacks.
+
+### Responsible Submission
+
+After discovering a vulnerability, please contact us and report the vulnerability information as soon as possible via the official email; include a vulnerability description, vulnerability PoC, and repair suggestions.
 
 ### Bug PoC
 
