@@ -114,9 +114,9 @@ If have any problems contact us through email: build@confluxnetwork.org
 
 ## Bounty Issuance
 
-Evaluation: We will evaluate based on the importance of the vulnerability module, actual impact, and discovery difficulty, and determine the bounty level.
-Issuance: Rewards will be issued after the vulnerability is confirmed and fixed, through cryptocurrency or other appropriate means.
-Disclosure: After the vulnerability is fixed, we will disclose the vulnerability details and the repair plan, and thank you for your contribution.
+- Evaluation: We will evaluate based on the importance of the vulnerability module, actual impact, and discovery difficulty, and determine the bounty level.
+- Issuance: Rewards will be issued after the vulnerability is confirmed and fixed, through cryptocurrency or other appropriate means.
+- Disclosure: After the vulnerability is fixed, we will disclose the vulnerability details and the repair plan, and thank you for your contribution.
 
 ## Importance of Bug Bounties
 
