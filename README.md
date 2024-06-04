@@ -106,7 +106,7 @@ Security researchers who fall under any of the following are ineligible for a re
 
 ### Participation Methods
 
-- Create an issue in this GitHub Repo and describe the vulnerability details
+- Send issue detail and PoC to `build@confluxnetwork.org`
 
 ### Contact Us
 
