@@ -86,7 +86,7 @@ Examples:
 - Major logical errors in smart contracts
 - Vulnerabilities that could lead to large-scale fund losses
 
-Note: The determination of the reward amount is based on the price of CFX at the time this plan is released. If there is a significant change in the price of CFX, the reward amount will be adjusted accordingly.
+> Note: The determination of the reward amount is based on the price of CFX at the time this plan is released. If there is a significant change in the price of CFX, the reward amount will be adjusted accordingly.
 
 ## Participation Guidelines
 
