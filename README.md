@@ -11,6 +11,8 @@ The scope of this program primarily covers Conflux's officially developed projec
 3. Official wallets and DApps: Fluent Wallet, ConfluxHub
 4. Infrastructure services: ConfluxScan, Confura Service
 
+Note about [Conflux-Rust](./conflux-rust-note.md)
+
 ### Items not covered by this Bug Bounty program
 
 To avoid any confusion, the following are considered outside the current policy scope and do not qualify for the Bug Bounty program:
