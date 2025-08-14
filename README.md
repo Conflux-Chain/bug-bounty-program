@@ -6,10 +6,9 @@ As a cutting-edge public chain project, Conflux deeply understands the importanc
 
 The scope of this program primarily covers Conflux's officially developed projects and products, including but not limited to:
 
-1. Conflux-Rust: Conflux core protocol
-2. Multi-language SDK frameworks: JavaScript, Python, Java, Go
-3. Official wallets and DApps: Fluent Wallet, ConfluxHub
-4. Infrastructure services: ConfluxScan, Confura Service
+1. Multi-language SDK frameworks: JavaScript, Python, Java, Go
+2. Official wallets and DApps: Fluent Wallet, ConfluxHub
+3. Infrastructure services: ConfluxScan, Confura Service
 
 Note about [Conflux-Rust](./conflux-rust-note.md)
 
@@ -37,7 +36,7 @@ We categorize the bounties into five levels based on the severity and impact ran
 
 Description: These issues do not directly impact system security but help improve the overall security and robustness of the system.
 
-Reward: 300 - 500 CFX
+Reward: 50 - 100 USD
 
 Examples:
 
@@ -48,7 +47,7 @@ Examples:
 
 Description: These vulnerabilities have a minor impact on system security but still need to be fixed to prevent possible future exploitation, such as information leakage, minor configuration errors, etc.
 
-Reward: 500 - 1,000 CFX
+Reward: 100 - 200 USD
 
 Examples:
 
@@ -59,7 +58,7 @@ Examples:
 
 Description: These vulnerabilities have a certain impact on system security but will not result in direct catastrophic consequences, such as cross-site scripting (XSS), moderately severe smart contract vulnerabilities, etc.
 
-Reward: 1,000 - 5,000 CFX
+Reward: 200 - 1000 USD
 
 Examples:
 
@@ -70,7 +69,7 @@ Examples:
 
 Description: These vulnerabilities may cause partial system functionality failure or carry exploitation risks, such as privilege escalation, sensitive data leakage, etc.
 
-Reward: 5,000 - 20,000 CFX
+Reward: 1000 - 4000 USD
 
 Examples:
 
@@ -81,14 +80,17 @@ Examples:
 
 Description: These vulnerabilities pose a serious threat to the security and integrity of the system, such as unauthorized fund transfers, severe smart contract vulnerabilities, etc.
 
-Reward: 20,000 - 100,000 CFX
+Reward: 4000 - 20000 USD
 
 Examples:
 
 - Major logical errors in smart contracts
 - Vulnerabilities that could lead to large-scale fund losses
 
-> Note: The determination of the reward amount is based on the price of CFX at the time this plan is released. If there is a significant change in the price of CFX, the reward amount will be adjusted accordingly.
+> Payouts are handled by the Conflux Network team directly and are denominated in USD. However, payments are done in CFX on Conflux.
+> The calculation of the net amount rewarded is based on the average price between CoinMarketCap.com and CoinGecko.com at the time the bug report was submitted.
+> No adjustments are made based on liquidity availability.
+
 
 ## Participation Guidelines
 
